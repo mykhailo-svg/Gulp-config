@@ -1,0 +1,1 @@
+const a=document.querySelectorAll("div");let b=13,comsdp=1234;

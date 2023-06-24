@@ -1,0 +1,31 @@
+{
+  "name": "gp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.1.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-filenames": "^4.0.1",
+    "gulp-fonter": "^0.3.0",
+    "gulp-fonter-fix": "^0.0.1",
+    "gulp-include": "^2.4.1",
+    "gulp-load-plugins": "^2.0.8",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-tinypng": "^1.0.2",
+    "gulp-ttf2woff2": "^4.0.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^3.0.0",
+    "gulp-webp": "^4.0.1",
+    "sass": "^1.62.1"
+  }
+}
